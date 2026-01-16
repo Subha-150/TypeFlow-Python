@@ -16,5 +16,3 @@ Unlike static languages (C++/Java), a Python variable name can be reassigned to 
 The script demonstrates two ways to handle mixed-type output:
 - **Manual Concatenation**: Using `str()` to cast a numeric object into a string.
 - **F-Strings**: Modern Python syntax that handles object-to-string conversion automatically.
-- # Execution Proof
-- <img width="471" height="296" alt="Task_2" src="https://github.com/user-attachments/assets/8925b922-1575-4242-a2b3-cb93d2530561" />
